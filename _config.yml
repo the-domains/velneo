@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  saturation: 0.3697949
+  lightness: 0.6922967
+  brandStrength: 0.5143369
+  brandColors:
+    - '#DFE6EC'
+    - '#3C444F'
+    - '#68696E'
+    - '#FF3B4F'
+    - '#A6ACB7'
+  rhythmicContrast: 0.5205044
+name: Velneo
