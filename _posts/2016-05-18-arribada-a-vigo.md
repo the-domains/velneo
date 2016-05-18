@@ -1,21 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-18T10:12:05.841Z'
-dateModified: '2016-05-18T10:11:38.989Z'
+datePublished: '2016-05-18T10:24:38.287Z'
+dateModified: '2016-05-18T10:24:18.700Z'
 title: Arribada a Vigo
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher: null
 starred: false
 sourcePath: _posts/2016-05-18-arribada-a-vigo.md
-_type: Blurb
+url: arribada-a-vigo/index.html
+_type: Article
 
 ---
-# Arribada a Vigo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8cc27a-ac0b-4f64-884b-b21cbd62595b.jpg)
+
+# Arribada a Vigo
