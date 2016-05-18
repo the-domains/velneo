@@ -1,14 +1,29 @@
-layout_spectrum: 0.7560905
-typography_spectrum: 0.7059556
+name: Velneo
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
+title: Curs Lifeisoft a Velneo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3697949
-  lightness: 0.6922967
-  brandStrength: 0.5143369
   brandColors:
     - '#DFE6EC'
     - '#3C444F'
     - '#68696E'
     - '#FF3B4F'
     - '#A6ACB7'
+  brandStrength: 0.5143369
+  lightness: 0.6922967
+  saturation: 0.3697949
   rhythmicContrast: 0.5205044
-name: Velneo
+purpose: []
